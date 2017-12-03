@@ -1,0 +1,48 @@
+.espacoLetra
+{
+    background-size: 50px;
+    border: solid 2px blue;
+    height: 100px;
+  	width: 80px;
+    padding: 5px;
+    font-size: 5em;
+}
+
+.LetraEscondida
+{
+	color: #ffffff;
+}
+
+.LetraAparece
+{
+	color: #000000;
+}
+
+.inicial
+{
+	color: #c9c9c9;
+	background-color: #c9c9c9;
+}
+
+.textAlign	
+{
+	margin: 0px;
+}
+
+.dica
+{
+	color: blue;
+}
+.imagemForca
+{
+	position: relative;
+    top: -53px;
+    left: 75px;
+}
+
+.imagemboneco
+{
+	position: relative;
+    right: 310px;
+    top: -28px;
+}
